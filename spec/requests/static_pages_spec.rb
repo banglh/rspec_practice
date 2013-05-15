@@ -1,5 +1,6 @@
 require 'spec_helper'
 
+# comment here
 describe "Static pages" do
   before {visit root_path}
   
